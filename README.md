@@ -10,7 +10,7 @@ We would like to thank the authors of the TensorFlow, Keras, and Matplotlib libr
 
 ## Demo
 ![image](https://user-images.githubusercontent.com/34344439/210148845-173e8ad8-1404-40b0-9920-e9511ff86953.png)
-
+![image](https://user-images.githubusercontent.com/34344439/210148877-fff1d3b3-3d0b-4e1d-99ff-27139eb4eed5.png)
 
 ## Tech Stack
 - Python 3.7
