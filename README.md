@@ -9,10 +9,7 @@ We would like to thank the authors of the TensorFlow, Keras, and Matplotlib libr
 
 
 ## Demo
-
-- Breadth-First Search (FIFO): The route is [1, 6, 5], and total cost is 23.
-- Depth-First Search (LIFO): The route is [1, 6, 5], and total cost is 23.
-- Uniform-Cost Search: The route is [1, 3, 6, 5], and total cost is 20.
+![image](https://user-images.githubusercontent.com/34344439/210148845-173e8ad8-1404-40b0-9920-e9511ff86953.png)
 
 
 ## Tech Stack
